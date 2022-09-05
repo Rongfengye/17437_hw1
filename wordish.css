@@ -14,7 +14,6 @@ table {
     /* border-spacing: 0; */
     border-collapse: separate;
     border-spacing: 15px;
-    *border-collapse: expression('separate', cellSpacing='10px');
 }
 h3 {
     border: 1px solid black;
